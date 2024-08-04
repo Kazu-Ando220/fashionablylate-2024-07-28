@@ -1,0 +1,38 @@
+.thanks__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    position: relative;
+}
+
+.thanks__heading {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    font-size: 48px;
+    color: #F5F5F5;
+    z-index: -10;
+}
+
+.thanks__text {
+    position: absolute;
+    top: 55%;
+    text-align: center;
+    font-size: 24px;
+    color: #918D40;
+    z-index: 0;
+}
+
+.thanks__button {
+    position: absolute;
+    top: 60%;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+    background: #918D40;
+    height: 50px;
+    width: 150px;
+    z-index: 0;
+}
